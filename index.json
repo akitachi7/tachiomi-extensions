@@ -1,5 +1,65 @@
 [
   {
+    "name": "Tachiyomi: MangaBook",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangabook",
+    "apk": "tachiyomi-ru.mangabook-v1.4.5.apk",
+    "lang": "ru",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaBook",
+        "lang": "ru",
+        "id": "6757376303534436975",
+        "baseUrl": "https://mangabook.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaClub",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangaclub",
+    "apk": "tachiyomi-ru.mangaclub-v1.4.12.apk",
+    "lang": "ru",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaClub",
+        "lang": "ru",
+        "id": "6157490448326783413",
+        "baseUrl": "https://mangaclub.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mangahub",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
+    "apk": "tachiyomi-ru.mangahub-v1.4.17.apk",
+    "lang": "ru",
+    "code": 17,
+    "version": "1.4.17",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangahub",
+        "lang": "ru",
+        "id": "8601336865408732240",
+        "baseUrl": "https://mangahub.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
     "apk": "tachiyomi-ru.mangalib-v1.4.106.apk",
@@ -20,12 +80,32 @@
     ]
   },
   {
+    "name": "Tachiyomi: NewManga(Newbie)",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
+    "apk": "tachiyomi-ru.newbie-v1.4.19.apk",
+    "lang": "ru",
+    "code": 19,
+    "version": "1.4.19",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NewManga(Newbie)",
+        "lang": "ru",
+        "id": "8033757373676218584",
+        "baseUrl": "https://newmanga.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.72.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.76.apk",
     "lang": "ru",
-    "code": 72,
-    "version": "1.4.72",
+    "code": 76,
+    "version": "1.4.76",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -34,7 +114,27 @@
         "name": "ReadManga",
         "lang": "ru",
         "id": "5",
-        "baseUrl": "https://1.readmanga.io",
+        "baseUrl": "https://zz.readmanga.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Remanga",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
+    "apk": "tachiyomi-ru.remanga-v1.4.82.apk",
+    "lang": "ru",
+    "code": 82,
+    "version": "1.4.82",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Remanga",
+        "lang": "ru",
+        "id": "8983242087533137528",
+        "baseUrl": "https://api.remanga.org",
         "versionId": 1
       }
     ]
@@ -42,10 +142,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.27.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.31.apk",
     "lang": "ru",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -62,10 +162,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.48.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.52.apk",
     "lang": "ru",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
