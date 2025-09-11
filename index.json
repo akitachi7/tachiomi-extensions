@@ -102,10 +102,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.76.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.77.apk",
     "lang": "ru",
-    "code": 76,
-    "version": "1.4.76",
+    "code": 77,
+    "version": "1.4.77",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -114,7 +114,7 @@
         "name": "ReadManga",
         "lang": "ru",
         "id": "5",
-        "baseUrl": "https://zz.readmanga.io",
+        "baseUrl": "https://a.zazaza.me",
         "versionId": 1
       }
     ]
@@ -142,10 +142,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.31.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.32.apk",
     "lang": "ru",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -162,10 +162,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.52.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.53.apk",
     "lang": "ru",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -174,7 +174,7 @@
         "name": "SelfManga",
         "lang": "ru",
         "id": "5227602742162454547",
-        "baseUrl": "https://selfmanga.live",
+        "baseUrl": "https://1.selfmanga.live",
         "versionId": 1
       }
     ]
