@@ -62,10 +62,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
-    "apk": "tachiyomi-ru.mangalib-v1.4.108.apk",
+    "apk": "tachiyomi-ru.mangalib-v1.4.112.apk",
     "lang": "ru",
-    "code": 108,
-    "version": "1.4.108",
+    "code": 112,
+    "version": "1.4.112",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
